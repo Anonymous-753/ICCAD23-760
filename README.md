@@ -1,7 +1,11 @@
 # ICCAD 2023 Submission 760 Supplementary Material
 This repository is only intended for reviewing purposes!
 
+## Overview
+
 The ***src*** directory contains the source code of the tool.
+
+The ***instances*** directory contains the preprocessed IWLS22 and IWLS23 instances, which were used for the experiments.
 
 ## Installation
 
